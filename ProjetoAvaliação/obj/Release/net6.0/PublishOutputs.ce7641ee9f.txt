@@ -1,0 +1,7 @@
+D:\Users\Hugo\Desktop\API Teste\PrimeiroProjetoAPI\ProjetoAvaliação\ProjetoAvaliação\obj\Release\net6.0\PubTmp\Out\ProjetoAvaliação.exe
+D:\Users\Hugo\Desktop\API Teste\PrimeiroProjetoAPI\ProjetoAvaliação\ProjetoAvaliação\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Users\Hugo\Desktop\API Teste\PrimeiroProjetoAPI\ProjetoAvaliação\ProjetoAvaliação\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Users\Hugo\Desktop\API Teste\PrimeiroProjetoAPI\ProjetoAvaliação\ProjetoAvaliação\obj\Release\net6.0\PubTmp\Out\ProjetoAvaliação.dll
+D:\Users\Hugo\Desktop\API Teste\PrimeiroProjetoAPI\ProjetoAvaliação\ProjetoAvaliação\obj\Release\net6.0\PubTmp\Out\ProjetoAvaliação.deps.json
+D:\Users\Hugo\Desktop\API Teste\PrimeiroProjetoAPI\ProjetoAvaliação\ProjetoAvaliação\obj\Release\net6.0\PubTmp\Out\ProjetoAvaliação.runtimeconfig.json
+D:\Users\Hugo\Desktop\API Teste\PrimeiroProjetoAPI\ProjetoAvaliação\ProjetoAvaliação\obj\Release\net6.0\PubTmp\Out\ProjetoAvaliação.pdb
